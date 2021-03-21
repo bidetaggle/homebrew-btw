@@ -1,7 +1,7 @@
 class Btw < Formula
   include Language::Python::Virtualenv
 
-  desc "NLP command line assistant powered by OpenAI."
+  desc "NLP command-line assistant powered by OpenAI"
   homepage "https://github.com/bidetaggle/bytheway/tree/dev#by-the-way"
   url "https://github.com/bidetaggle/bytheway/archive/refs/tags/v0.1-alpha.tar.gz"
   version "0.1"
